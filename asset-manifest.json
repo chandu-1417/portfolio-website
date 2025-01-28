@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.7396d68d.css",
-    "main.js": "/portfolio-website/static/js/main.899d602e.js",
+    "main.css": "/portfolio-website/static/css/main.c368b199.css",
+    "main.js": "/portfolio-website/static/js/main.359ecc3a.js",
     "static/media/Friendly handsome man pointing fingers left at advertisement.png": "/portfolio-website/static/media/Friendly handsome man pointing fingers left at advertisement.b990ca816ed4deae8280.png",
     "static/media/Rectangle 2.png": "/portfolio-website/static/media/Rectangle 2.d55c3b98f2af6f9e499e.png",
     "static/media/Young happy man standing isolated.png": "/portfolio-website/static/media/Young happy man standing isolated.c4b57092c8e3fad3a8bc.png",
@@ -12,11 +12,11 @@
     "static/media/Ellipse 17.png": "/portfolio-website/static/media/Ellipse 17.d3325d5e15f84f2c5d67.png",
     "static/media/Ellipse 16.png": "/portfolio-website/static/media/Ellipse 16.19f38d58f356ccb95361.png",
     "index.html": "/portfolio-website/index.html",
-    "main.7396d68d.css.map": "/portfolio-website/static/css/main.7396d68d.css.map",
-    "main.899d602e.js.map": "/portfolio-website/static/js/main.899d602e.js.map"
+    "main.c368b199.css.map": "/portfolio-website/static/css/main.c368b199.css.map",
+    "main.359ecc3a.js.map": "/portfolio-website/static/js/main.359ecc3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7396d68d.css",
-    "static/js/main.899d602e.js"
+    "static/css/main.c368b199.css",
+    "static/js/main.359ecc3a.js"
   ]
 }
