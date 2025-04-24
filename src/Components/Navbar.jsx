@@ -40,7 +40,7 @@ const Navbar = () => {
     <header className="w-full shadow-md bg-white">
       <div className="flex items-center justify-between px-6 py-4 md:h-[70px] md:px-[90px]">
         <div>
-          <Link to="/">
+          <Link to="/portfolio-website">
             <h1
               onClick={handleNavLinksChange}
               className="text-[28px] font-semibold font-sans text-[#0C7FB0] md:text-[35px] cursor-pointer"
@@ -55,7 +55,7 @@ const Navbar = () => {
           {navMenu.map((item, index) => (
             <Link
               key={index}
-              to={`${index === 0 ? "/" : `/${item.toLowerCase()}`}`}
+              to={`${index === 0 ? "/portfolio-website" : `/${item.toLowerCase()}`}`}
               className={`transition-all duration-[0.3s] cursor-pointer ${
                 textcolor === index
                   ? "text-[#0C7FB0] font-bold text-2xl"
@@ -92,7 +92,7 @@ const Navbar = () => {
             {navMenu.map((item, index) => (
               <Link
                 key={index}
-                to={`${index === 0 ? "/" : `/${item.toLowerCase()}`}`}
+                to={`${index === 0 ? "/portfolio-website" : `/${item.toLowerCase()}`}`}
                 className={`hover:text-[#0C7FB0] transition-all duration-300 cursor-pointer text-lg ${
                   textcolor === index
                     ? "text-[#0C7FB0] font-bold text-2xl"
